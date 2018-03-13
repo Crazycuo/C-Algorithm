@@ -1,0 +1,4 @@
+WHAT'S THE FUNCTION OF RBTREE AND MD5: 
+
+	1. libconhash uses a red-black tree to manage all nodes to achieve high performance.
+	2. By default, it uses the MD5 algorithm, but it also supports user-defined hash functions.
