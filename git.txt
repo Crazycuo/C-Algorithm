@@ -1,0 +1,7 @@
+git init
+git status
+git add "*.txt"
+git commit -m ""
+git log
+git remote add origin https://...
+git push -u origin master
